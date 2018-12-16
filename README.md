@@ -1,8 +1,8 @@
 # Sequelize ORM Demo
 Simple CRUD app.
 
+## Technologies used:
 ```
-Technologies used:
 Node
 Express
 MySQL
