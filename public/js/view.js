@@ -123,7 +123,7 @@ $(document).ready(function() {
         "<div class='list'>",
         todo.id, ". ",
         todo.text, "  ",
-        "<button class='delete btn btn-danger'>x</button>",
+        "<button style='vertical-align: middle;' class='delete'>x</button>",
         "</div>",
         // "<input type='text' class='edit' style='display: none;'>",
         // "<button class='complete btn btn-primary'>✓</button>",

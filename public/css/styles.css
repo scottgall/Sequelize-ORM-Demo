@@ -23,11 +23,6 @@ body {
   justify-items: center;
 }
 
-/* button {
-  font-size: 16px;
-  padding: 2px 5px;
-} */
-
 .addBurger {
   grid-column: 1 / span 3;
   display: grid;
