@@ -1,6 +1,5 @@
 # [Sequelize ORM Demo](https://sequelize-orm-demo.herokuapp.com/)
-Simple CRUD app.
-
+CRUD app using Sequelize.
 ## Technologies used
 - Node
 - Express
